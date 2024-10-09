@@ -1,3 +1,3 @@
 data A;
-  a=1;
+  a=3;
 run;
